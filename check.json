@@ -1,0 +1,11 @@
+{
+  "command": [
+    "{python}",
+    "app.py"
+  ],
+  "expected": {
+    "observed_rate": 0.8,
+    "base_seed_count": 75,
+    "with_reserve": 83
+  }
+}
